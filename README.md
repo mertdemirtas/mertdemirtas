@@ -1,4 +1,4 @@
-### <div align="center">Hi there, I'm Mert, a full-time iOS developer</div>  
+### <div align="center">Hi there, I'm Mert, Software Engineer who is trying to get opportunity at Meta.
   
 
 - 🔭 Student at Kocaeli University

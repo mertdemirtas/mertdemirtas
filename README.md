@@ -1,13 +1,13 @@
 ### <div align="center">Hi there, I'm Mert, a full-time iOS developer</div>  
   
 
-- 🔭 I’m currently Bootcamp Asistant at Patika.dev - FMSS iOS Bootcamp  
+- 🔭 Student at Kocaeli University
   
 
-- ❓ Ask me about anything related to Swift.  
+- ❓ Ask me about anything related to Swift, Python, Java, algorithms and data structures.
   
 
-- ❇️ I'm currently open to new opportunities as an iOS developer.  
+- ❇️ I'm currently open to new opportunities as an intern.
   
 
 <br/>  

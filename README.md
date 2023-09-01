@@ -3,11 +3,9 @@
 
 - 🔭 Student at Kocaeli University
   
-
 - ❓ Ask me about anything related to Swift, Python, Java, algorithms and data structures.
   
-
-- ❇️ I'm currently open to new opportunities as an intern.
+- ❇️ I'm currently open to new opportunities as a Software Engineer.
   
 
 <br/>  

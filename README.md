@@ -2,6 +2,7 @@
   
 - ❇️ I'm currently open to new opportunities as a Software Engineer.
 
+https://www.mertdemirtas.com
   
 
 <a href="https://linkedin.com/in/mertdemirtas" target="_blank">
